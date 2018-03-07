@@ -521,6 +521,7 @@ span.middot {
 }
 
 .vertical-middle {
+	top: 40% !important;
 	height: auto !important;
 	left: 0;
 }
@@ -13616,4 +13617,3 @@ body:not(.no-transition) #wrapper,
 	margin:0!important;
 	padding:0!important
 }
-
